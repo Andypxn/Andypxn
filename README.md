@@ -12,7 +12,7 @@ Me encanta analizar modelos, datos y resolver problemas complejos mediante el de
 ---
 
 ###  Cómo contactarme
-- **LinkedIn:** (  https://www.linkedin.com/in/andres-r-olvera-j-0210ba348/  )
+- **LinkedIn:** (  https://www.linkedin.com/in/andres-raymundo-olvera-j-0210ba348/  )
 - **Correo:** mateandres5253@gmail.com
 
 ### En qué estoy trabajando
