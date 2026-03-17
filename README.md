@@ -2,7 +2,7 @@
 
 ### Ingeniero en Computación | Entusiasta de Machine Learning y Sistemas Distribuidos
 
-Actualización de README: 5 de Marzo 2026
+Actualización de README: 16 de Marzo 2026
 
 ----
 
@@ -17,7 +17,7 @@ Me encanta analizar modelos, datos y resolver problemas complejos mediante el de
 
 ### En qué estoy trabajando
 -  **Tesis de titulación:** Desarrollando una plataforma web con un sistema de punto de venta que utiliza **XGBoost** para predecir la demanda de insumos y dar recomendación de compra clara.
--  **Personal Finance Tracker:** Creando herramientas de automatización en Google Sheets para el seguimiento de gastos personales.
+-  **Personal Finance Tracker:** Creando herramientas de automatización en Google Sheets como "Base de Datos" + Streamlit como "Interfaz y Motor de ML" para control de finanzas personales.
 -  **App Sheet:** Creando una aplicación para llevar las finanzas totales del negocio de mi Abuelo y mi Papá.
 
 ### Trabajos anteriores
@@ -31,16 +31,11 @@ Me encanta analizar modelos, datos y resolver problemas complejos mediante el de
 - **Redes:** Configuración de VLANs y servicios DHCP (Cisco Packet Tracer), Sistemas distribuidos. 
   
 
-### Estadísticas de GitHub
-![Estadísticas de Andres](https://github-readme-stats.vercel.app/api?username=Andypxn&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Andypxn&layout=compact&theme=tokyonight)
-
----
-
 ###  Un poco sobre mí
--  Me apasiona el entrenamiento de fuerza, y completamente defensor de "La disciplina es liberadora"
+-  Me apasiona el entrenamiento de fuerza.
+-  Completamente defensor de "La disciplina es liberadora"
 -  Me fascina el mundo de los coches deportivos, y siempre estoy desarmando todo para mejorar o arreglar.
--  Creo firmemente en que el éxito no es una meta fija, el éxito es ser la persona capaz de lograr lo que se planteó en tiempo y forma. De tal modo que; se vive libre y feliz. 
+-  Creo firmemente en que el éxito no es una meta fija, el éxito es ser la persona capaz de lograr lo que se planteó en tiempo y forma. Lo demás llega como consecuencia. 
 
 
 
